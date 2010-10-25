@@ -69,7 +69,7 @@ hi rubyClass  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi rubyFunction  guifg=#9b703f ctermfg=95 guibg=NONE gui=NONE
 hi rubyInterpolationDelimiter  guifg=NONE guibg=NONE gui=NONE
 hi rubySymbol  guifg=#cf6a4c ctermfg=167 guibg=NONE gui=NONE
-hi rubyConstant  guifg=#9b859d ctermfg=246 guibg=NONE gui=NONE
+hi rubyConstant  guifg=#7587a6 ctermfg=246 guibg=NONE gui=NONE
 hi rubyStringDelimiter  guifg=#8f9d6a ctermfg=107 guibg=NONE gui=NONE
 hi rubyBlockParameter  guifg=#7587a6 ctermfg=103 guibg=NONE gui=NONE
 hi rubyInstanceVariable  guifg=#7587a6 ctermfg=103 guibg=NONE gui=NONE
