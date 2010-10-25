@@ -22,7 +22,7 @@ hi Cursor  guifg=NONE guibg=#a7a7a7 ctermbg=248 gui=NONE
 hi Visual  guifg=NONE guibg=#3c4043 ctermbg=238 gui=NONE
 hi CursorLine  guifg=NONE guibg=#1b1b1b ctermbg=234 gui=NONE
 hi CursorColumn  guifg=NONE guibg=#1b1b1b ctermbg=234 gui=NONE
-hi LineNr  guifg=#868686 ctermfg=102 guibg=#141414 ctermbg=233 gui=NONE
+hi LineNr  guifg=#868686 ctermfg=102 guibg=#0D0E0F ctermbg=233 gui=NONE
 hi VertSplit  guifg=#3f3f3f ctermfg=237 guibg=#3f3f3f ctermbg=237 gui=NONE
 hi MatchParen  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi StatusLine  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=bold
@@ -37,7 +37,7 @@ hi Search  guifg=NONE guibg=#343a44 ctermbg=237 gui=NONE
 hi Directory  guifg=#cf6a4c ctermfg=167 guibg=NONE gui=NONE
 hi Folded  guifg=#5f5a60 ctermfg=59 guibg=#141414 ctermbg=233 gui=NONE
 
-hi Normal  guifg=#f8f8f8 ctermfg=15 guibg=#141414 ctermbg=233 gui=NONE
+hi Normal  guifg=#f8f8f8 ctermfg=15 guibg=#0D0E0F ctermbg=233 gui=NONE
 hi Boolean  guifg=#cf6a4c ctermfg=167 guibg=NONE gui=NONE
 hi Character  guifg=#cf6a4c ctermfg=167 guibg=NONE gui=NONE
 hi Comment  guifg=#5f5a60 ctermfg=59 guibg=NONE gui=italic
@@ -51,7 +51,7 @@ hi Function  guifg=#9b703f ctermfg=95 guibg=NONE gui=NONE
 hi Identifier  guifg=#f9ee98 ctermfg=228 guibg=NONE gui=NONE
 hi Keyword  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi Label  guifg=#8f9d6a ctermfg=107 guibg=NONE gui=NONE
-hi NonText  guifg=#4f4f4f ctermfg=239 guibg=#141414 ctermbg=233 gui=NONE
+hi NonText  guifg=#4f4f4f ctermfg=239 guibg=#0D0E0F ctermbg=233 gui=NONE
 hi Number  guifg=#cf6a4c ctermfg=167 guibg=NONE gui=NONE
 hi Operator  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi PreProc  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
