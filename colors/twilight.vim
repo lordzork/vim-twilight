@@ -91,6 +91,7 @@ hi rubyRailsMethod  guifg=#dad085 ctermfg=186 guibg=NONE gui=NONE
 hi erubyDelimiter  guifg=NONE guibg=NONE gui=NONE
 hi erubyComment  guifg=#5f5a60 ctermfg=59 guibg=NONE gui=italic
 hi erubyRailsMethod  guifg=#dad085 ctermfg=186 guibg=NONE gui=NONE
+hi rubyRailsUserClass  guifg=#7587a6 ctermfg=246 guibg=NONE gui=NONE
 hi htmlTag  guifg=#ac885b ctermfg=137 guibg=NONE gui=NONE
 hi htmlEndTag  guifg=#ac885b ctermfg=137 guibg=NONE gui=NONE
 hi htmlTagName  guifg=#ac885b ctermfg=137 guibg=NONE gui=NONE
