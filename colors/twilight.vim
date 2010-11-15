@@ -22,7 +22,7 @@ hi Cursor  guifg=NONE guibg=#a7a7a7 ctermbg=248 gui=NONE
 hi Visual  guifg=NONE guibg=#3c4043 ctermbg=238 gui=NONE
 hi CursorLine  guifg=NONE guibg=#1b1b1b ctermbg=234 gui=NONE
 hi CursorColumn  guifg=NONE guibg=#1b1b1b ctermbg=234 gui=NONE
-hi LineNr  guifg=#868686 ctermfg=102 guibg=#0D0E0F ctermbg=233 gui=NONE
+hi LineNr  guifg=#3f3f3f ctermfg=102 guibg=#0D0E0F ctermbg=233 gui=NONE
 hi VertSplit  guifg=#3f3f3f ctermfg=237 guibg=#3f3f3f ctermbg=237 gui=NONE
 hi MatchParen  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi StatusLine  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=NONE
