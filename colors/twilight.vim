@@ -26,7 +26,7 @@ hi LineNr  guifg=#3f3f3f ctermfg=102 guibg=#0D0E0F ctermbg=233 gui=NONE
 hi VertSplit  guifg=#3f3f3f ctermfg=237 guibg=#3f3f3f ctermbg=237 gui=NONE
 hi MatchParen  guifg=#cda869 ctermfg=179 guibg=NONE gui=NONE
 hi StatusLine  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=NONE
-hi StatusLineNC  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=NONE
+hi StatusLineNC  guifg=#797979 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=NONE
 hi TabLine  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=NONE
 hi TabLineFill  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=NONE
 hi TabLineSel  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=bold
